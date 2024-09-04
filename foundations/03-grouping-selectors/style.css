@@ -1,0 +1,18 @@
+.left,
+.right{
+    font-style: "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.left{
+    background-color: black;
+    color: white;
+}
+
+.right{
+    color: black;
+    background-color: yellow;
+}
+
